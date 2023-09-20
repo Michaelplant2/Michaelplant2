@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelplant2&label=Profile%20views&color=004875&style=flat" alt="michaelplant2" /> </p>
 
-- 👨‍💻 My projects are available on my portfolio at [https://www.mplantamura.com](https://www.mplantamura.com)
+- 👨‍💻 My projects are available on my portfolio at [https://mplantamura.com](https://mplantamura.com)
 
 - 📫 How to reach me **MEPlantamura@gmail.com**
 
