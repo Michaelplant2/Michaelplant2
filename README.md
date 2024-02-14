@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Michael Plantamura</h1>
-<h3 align="center">Air Force Veteran and Web Developer from NJ</h3>
+<h3 align="center">Air Force Veteran and Full-Stack Web Developer from NJ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelplant2&label=Profile%20views&color=004875&style=flat" alt="michaelplant2" /> </p>
 
